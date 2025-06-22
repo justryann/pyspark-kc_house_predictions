@@ -1,6 +1,6 @@
 # PySpark King County House Analysis & Marketing Segmentation
 
-This repository contains advanced data science notebooks for real estate price modeling and customer segmentation using PySpark and scikit-learn. The main focus is on the King County House dataset, with implementations for Random Forest regression, K-Nearest Neighbors (KNN) regression, and marketing segmentation via KMeans clustering.
+This repository contains  data science notebooks for real estate price modeling and customer segmentation using PySpark and scikit-learn. The main focus is on the King County House dataset, with implementations for Random Forest regression, K-Nearest Neighbors (KNN) regression, and marketing segmentation via KMeans clustering.
 
 ---
 
